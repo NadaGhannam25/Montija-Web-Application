@@ -1,13 +1,13 @@
-# Deen Duel 
+# Deen-Challenge
 
-Deen Duel is a simple and engaging web-based quiz competition designed for two teams only.  
+Deen is a simple and engaging web-based quiz competition designed for two teams only.  
 It is built for family gatherings, friends, and especially Ramadan occasions to promote religious and cultural awareness in a fun and friendly way.
 
 ---
 
 ##  Project Idea
 
-Deen Duel is a two-team competitive quiz platform where users:
+Deen-Challenge is a two-team competitive quiz platform where users:
 
 - Select a category
 - Enter team names
